@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container {
+	margin: 50px;
+	padding: 50px;
+	background-color: blue;
+	
+}
+
+h1 {
+	color: Orange;
+	margin: 20px;
+	
+}
+
+.table {
+	background-color: white;
+	margin: 20px
+}
